@@ -29,3 +29,7 @@ By analyzing the position of your fingers captured via webcam, it offers an intu
 5. The system volume changes dynamically.
 6. An on-screen bar provides visual feedback of the current volume.
 
+### Contact & Authorship
+Name: Kunjum Mittal
+
+Email: Kunjum7025@gmail.com
